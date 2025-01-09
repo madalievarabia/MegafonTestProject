@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  MegafonTestProject
+//  News
 //
-//  Created by Oisha Sh. Madalieva on 09/01/25.
+//  Created by Aisha Madalieva on 08/01/25.
 //
 
 import UIKit
@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-    
-    
+
+
 }
 
