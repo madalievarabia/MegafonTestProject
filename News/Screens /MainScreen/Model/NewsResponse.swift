@@ -6,3 +6,17 @@
 //
 
 import Foundation
+struct NewsResponse: Codable {
+    let articles: [Article]
+}
+
+struct Article: Codable {
+    let name: String?
+    let author: String?
+    let title: String
+    let description: String?
+    let publishedAt: String
+    let content: String?
+
+
+}
